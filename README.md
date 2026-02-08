@@ -14,7 +14,7 @@
 
 ### Languages/Comunication 🌎  
   - I am Trilingual, that allows me to comunicate in diverse environments and situations.
-  ||**english**(Academic profiency)||**portuguese**(native/brazillian)||**italian**(native).
+  - ||**english**(Academic profiency)||**portuguese**(native/brazillian)||**italian**(native).
 
 ### Goal 📌
   - Work in a big company, with people who seeks for **excellence** and **innovation**.
