@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[cite_start]My name is **Riccardo**, and I'm currently pursuing a Bachelor's degree in Computer Science at **Università degli studi di Palermo (UNIPA)**.
+  My name is **Riccardo**, and I'm currently pursuing a Bachelor's degree in Computer Science at **Università degli studi di Palermo (UNIPA)**.
 
 ### Focus 🛠️
   - Deepening my expertise in programming language **C++** and memory management.
