@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**rickycrg/rickycrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]My name is **Riccardo**, and I'm currently pursuing a Bachelor's degree in Computer Science at **Università degli studi di Palermo (UNIPA)**.
 
-Here are some ideas to get you started:
+### Focus 🛠️
+  - Deepening my expertise in programming language **C++** and memory management.
+  - Refining my **problem-solving** skills, to work with softwares development, and increase their efficiency.
+  - Increase my **SQl (MySQL/PostGRE)** expertise, to manipulate better data structures.
+  
+### Experiences 💻
+  - **Web Developing** : Basic knowledge in **HTML/CSS**.
+  - **Database** : Basic expertise in **SQL(MySQL/PostGRE)** languages.
+  - **Languages** : **C**, **C++** (interest on Python).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages/Comunication 🌎  
+  - I am Trilingual, that allows me to comunicate in diverse environments and situations.
+  ||**english**(Academic profiency)||**portuguese**(native/brazillian)||**italian**(native).
+
+### Goal 📌
+  - Work in a big company, with people who seeks for **excellence** and **innovation**.
+
+### Funfacts and Softskills 😂
+
+  - **Teamwork**: My experience working as a waiter during summers has honed my ability to perform under pressure and collaborate in fast-paced environments.
+  - **Pet**: I have a cat, named **Chanel**. 🐈‍⬛
+  - **Sports**: Passionate soccer player and **Juventus** Fan. ⚽️
