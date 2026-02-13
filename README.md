@@ -4,6 +4,7 @@
 
 ### Focus 🛠️
   - Deepening my expertise in programming language **C** and memory management.
+  - Learning programming language **Java**
   - Refining my **problem-solving** skills, to work with softwares development, and increase their efficiency.
   - Increase my **SQl (MySQL/PostGRE)** expertise, to manipulate better data structures.
   
