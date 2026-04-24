@@ -10,7 +10,7 @@
 ### Experiences 💻
   - **Web Developing** : Basic knowledge in **HTML/CSS**.
   - **Database** : Basic expertise in **SQL(MySQL/PostGRE)** languages.
-  - **Languages** : **C**, (interest in **Java**☕️).
+  - **Languages** : **C**, (interest in **python**🐍).
 
 ### Languages/Comunication 🌎  
   - I am Trilingual, that allows me to comunicate in diverse environments and situations.
