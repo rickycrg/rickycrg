@@ -4,23 +4,22 @@
 
 ### Focus 🛠️
   - Deepening my expertise in programming language **C** and memory management.
-  - Refining my **problem-solving** skills, to work with softwares development, and increase their efficiency.
+  - Deepening my expertise in Python Data Science libraries (**pandas🐼**).
+  - Refining my **problem-solving** skills.
   - Increase my **SQl (MySQL/PostGRE)** expertise, to manipulate better data structures.
   
 ### Experiences 💻
   - **Web Developing** : Basic knowledge in **HTML/CSS**.
   - **Database** : Basic expertise in **SQL(MySQL/PostGRE)** languages.
-  - **Languages** : **C**, (interest in **python**🐍).
+  - **Languages** : **python**🐍, **C**.
 
 ### Languages/Comunication 🌎  
   - I am Trilingual, that allows me to comunicate in diverse environments and situations.
   - ||**english**(Academic profiency)||**portuguese**(native/brazillian)||**italian**(native).
 
 ### Goal 📌
-  - Work in a big company, with people who seeks for **excellence** and **innovation**.
+  - Work in a big company, with people who seeks for **innovation**.
 
-### Funfacts and Softskills 😂
+### Softskills 💪
 
   - **Teamwork**: My experience working as a waiter during summers has honed my ability to perform under pressure and collaborate in fast-paced environments.
-  - **Pet**: I have a cat, named **Chanel**. 🐈‍⬛
-  - **Sports**: Passionate soccer player and **Juventus** Fan. ⚽️
